@@ -198,7 +198,7 @@ footer a {
 @media (max-width: 760px) {
 
     main{
-        margin-left: -20px;
+        margin-left: -10px;
     }
     main h1{
         font-size: 1rem;
