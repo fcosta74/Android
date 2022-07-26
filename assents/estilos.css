@@ -201,14 +201,12 @@ footer a {
         margin-left: -10px;
     }
     main h1{
-        font-size: 1rem;
+        font-size: 0.8rem;
     }
     aside ul{
         font-size: 15px;
         padding: 2px;
 
     }
-    .historia{
-        font-size: 0.6em;
-    }
+    
 }
